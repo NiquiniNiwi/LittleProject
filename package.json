@@ -2,7 +2,7 @@
     "name": "twitch",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://NiquiniNiwi.github.io/",
+    "homepage": "https://niquininiwi.github.io/LittleProject/",
     "dependencies": {
         "@chakra-ui/react": "^1.8.8",
         "@emotion/react": "11",
